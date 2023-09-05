@@ -17,7 +17,9 @@ const solutions = [
   {"id": 12, "word": "phone"},
   {"id": 13, "word": "bling"},
   {"id": 14, "word": "coins"},
-  {"id": 15, "word": "hello"}
+  {"id": 15, "word": "hello"},
+  {"id": 16, "word": "black"},
+  {"id": 17, "word": "white"}
 ]
 
 
